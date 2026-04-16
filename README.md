@@ -1,12 +1,12 @@
-# 🚗 Intelligent Headlight-Horn System
+# Intelligent Headlight-Horn System
 An Arduino-based intelligent system that automatically controls vehicle headlights using LDR for dipper functionality and includes a manual horn/overtake feature using a push button.
 
-## 📌 Description
+## Description
 This project is an Arduino-based Intelligent Headlight and Horn System designed to improve driving safety. It automatically controls vehicle headlights using an LDR sensor to detect incoming light and switches between high and low beam (dipper). It also includes a manual horn and overtake feature using a push button.
 
 ---
 
-## ⚙️ Features
+## Features
 - Automatic Day/Night mode using toggle switch
 - Automatic dipper (high/low beam) using LDR
 - Manual horn and overtake signal using push button
@@ -15,7 +15,7 @@ This project is an Arduino-based Intelligent Headlight and Horn System designed 
 
 ---
 
-## 🔌 Components Used
+## Components Used
 - Arduino Uno
 - LDR Sensor
 - 2 LEDs (High beam & Low beam)
@@ -43,7 +43,7 @@ The project is built using an Arduino Uno and basic electronic components on a b
 
 ---
 
-## ⚙️ Working Process
+## Working Process
 
 1. Circuit is built using LEDs, LDR, buzzer, and button on a breadboard.
 2. All components are connected to Arduino Uno.
@@ -52,16 +52,16 @@ The project is built using an Arduino Uno and basic electronic components on a b
 
 ---
 
-## 🚗 Working Modes
+## Working Modes
 
-### ☀️ Day Mode
+### Day Mode
 - Headlights OFF
 - Button press → Buzzer ON + Light ON
 - Button release → OFF
 
 ---
 
-### 🌙 Night Mode
+### Night Mode
 - LED2 (Low Beam) always ON
 - LED1 ON → Normal condition (High Beam)
 - LED1 OFF → When opposite light detected (Dipper)
@@ -69,21 +69,21 @@ The project is built using an Arduino Uno and basic electronic components on a b
 
 ---
 
-## 🔄 Flowchart
+## Flowchart
 ![Flowchart](flowchart.jpg)
 
 ---
 
-## 📸 Working Demo
+## Working Demo
 ![Process](process.jpg)
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 This system enhances road safety by automatically adjusting headlights based on surrounding light conditions and providing manual control for overtaking using a horn and high beam.
 
 ---
 
-## 👨‍💻 Author
+## Author
 - Tushar dewangan
   
