@@ -1,6 +1,5 @@
-# Intelligent-Headlight-Horn-System
-An Arduino-based intelligent system that automatically controls vehicle headlights using LDR for dipper functionality and includes a manual horn/overtake feature using a push button.
 # 🚗 Intelligent Headlight and Horn System
+An Arduino-based intelligent system that automatically controls vehicle headlights using LDR for dipper functionality and includes a manual horn/overtake feature using a push button.
 
 ## 📌 Description
 This project is an Arduino-based Intelligent Headlight and Horn System designed to improve driving safety. It automatically controls vehicle headlights using an LDR sensor to detect incoming light and switches between high and low beam (dipper). It also includes a manual horn and overtake feature using a push button.
