@@ -29,13 +29,17 @@ This project is an Arduino-based Intelligent Headlight and Horn System designed 
 
 ---
 
-## 📸 Project Setup
+## Project Setup
 
-### Circuit Setup
-![Setup](setup.jpg)
+The project is built using an Arduino Uno and basic electronic components on a breadboard. 
 
-### Model Integration
-![Model](model.jpg)
+- Two LEDs are used to represent high beam (LED1) and low beam (LED2).
+- An LDR sensor is used to detect incoming light from opposite vehicles.
+- A push button is used for manual horn and overtake indication.
+- A toggle switch is used to switch between day and night mode.
+- A buzzer is used to simulate the vehicle horn.
+- All components are connected using resistors, jumper wires, and a breadboard.
+- The complete setup is mounted on a model car to simulate a real-world vehicle system.
 
 ---
 
